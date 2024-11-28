@@ -41,6 +41,5 @@ if hapus_button:
     st.success('Baju berhasil dihapus!')
 
 # Menjalankan aplikasi Streamlit
-if _name_ == '_main_':
-    st.run()
+streamlit run app.py
 
