@@ -42,5 +42,5 @@ if hapus_button:
 
 # Menjalankan aplikasi Streamlit
 if _name_ == '_main_':
-    streamlit run app.py
+    app.py()
 
