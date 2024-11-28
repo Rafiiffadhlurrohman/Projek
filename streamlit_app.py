@@ -42,4 +42,5 @@ if hapus_button:
 
 # Menjalankan aplikasi Streamlit
 if _name_ == '_main_':
-    st.play()
+    streamlit run app.py
+
